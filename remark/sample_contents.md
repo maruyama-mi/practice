@@ -58,6 +58,16 @@ def add(a,b)
 end
 ```
 
+Implicit return statment:
+
+```ruby
+def add(a,b)
+*  a + b
+end
+
+Notice how there is no return statement.
+```
+
 ---
 
 layout: true
