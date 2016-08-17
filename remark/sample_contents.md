@@ -12,6 +12,9 @@ class: center, middle
 * Deep-dive
 * Another
 
+[.red.bold[*] [京都七夕祭り](http://www.kyoto-tanabata.jp/)]
+[.red.bold[*] Normal Text]
+
 ???
 test now
 
