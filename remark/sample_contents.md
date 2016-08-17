@@ -4,7 +4,6 @@ class: center, middle
 # Custom Contents
 
 ---
-class: center, middle
 
 # Agenda
 
@@ -12,8 +11,9 @@ class: center, middle
 * Deep-dive
 * Another
 
-[.red.bold[*] [京都七夕祭り](http://www.kyoto-tanabata.jp/)]
-[.red.bold[*] Normal Text]
+.fnote[.red.bold[*] [京都七夕祭り](http://www.kyoto-tanabata.jp/)]
+
+.snote[.red.bold[*] Normal Text]
 
 ???
 test now
