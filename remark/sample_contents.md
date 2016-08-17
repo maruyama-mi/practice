@@ -8,9 +8,9 @@ class: center, middle
 
 # Agenda
 
-## Introduction
-## Deep-dive
-##Another
+* Introduction
+* Deep-dive
+* Another
 
 ???
 test now
@@ -28,7 +28,6 @@ Some note
 ---
 
 background-image: url(http://cache.kyoto-tanabata.jp/design/img/cmn/ogp.jpg)
-background-position: center;
 background-repeat: no-repeat;
 background-size: contain;
 
@@ -37,6 +36,7 @@ background-size: contain;
 ---
 
 # Same Slide
+
 --
 1. First
 
@@ -54,3 +54,7 @@ def add(a,b)
   a + b
 end
 ```
+
+---
+
+.footnote[.red.bold[*] Opening bracket: &amp;#91;]
