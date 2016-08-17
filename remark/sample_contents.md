@@ -57,4 +57,24 @@ end
 
 ---
 
-.footnote[.red.bold[*] Opening bracket: &amp;#91;]
+layout: true
+
+# Section
+
+---
+
+## Sub section 1
+
+---
+
+## Sub section 2
+
+---
+name: other-slide
+
+Some content.
+
+---
+template: other-slide
+
+Content appended to other-slide's content.
