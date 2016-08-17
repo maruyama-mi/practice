@@ -70,6 +70,8 @@ layout: true
 ## Sub section 2
 
 ---
+layout: false
+
 name: other-slide
 
 Some content.
@@ -78,3 +80,5 @@ Some content.
 template: other-slide
 
 Content appended to other-slide's content.
+
+.footnote[.red.bold[*] Important footnote]
